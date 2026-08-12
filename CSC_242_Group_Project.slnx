@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CSC_242_Group_Project/CSC_242_Group_Project.vcxproj" Id="55114e25-44cc-4720-bfe8-865fb1ac3bc8" />
+</Solution>
